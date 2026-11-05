@@ -7,7 +7,7 @@ Aplicação Unity de **Realidade Virtual** (RV) desenvolvida como Trabalho de Co
 | **Autor** | Júlio César Schmidt |
 | **Orientador** | Me. Fabrício Pretto |
 | **Título** | Dependência química por cocaína: desenvolvimento e avaliação de um ambiente simulado por meio de realidade virtual |
-| **Repositório** | https://github.com/julioschmidt/tcc-unity |
+| **Repositório** | https://github.com/julioschmidt/vr-cue-exposure |
 
 <p align="center">
   <img src="docs/images/tccimagem.png" alt="Visão estereoscópica Cardboard — cena da rua noturna" width="720">
